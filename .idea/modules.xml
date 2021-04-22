@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignment 7 Triangle/Assignment 7 Triangle.iml" filepath="$PROJECT_DIR$/Assignment 7 Triangle/Assignment 7 Triangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/EGR323Prof.Kolta.iml" filepath="$PROJECT_DIR$/EGR323Prof.Kolta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 7 Triangle/Junit Test.iml" filepath="$PROJECT_DIR$/Assignment 7 Triangle/Junit Test.iml" />
     </modules>
   </component>
 </project>
